@@ -1,4 +1,3 @@
-Projeto – Guia de Desenvolvimento
 
 Este projeto foi construído utilizando um conjunto moderno de ferramentas voltadas para performance, escalabilidade e eficiência no desenvolvimento de interfaces. A seguir, você encontra as instruções essenciais para editar, executar e publicar sua aplicação.
 
@@ -6,15 +5,15 @@ Tecnologias Utilizadas
 
 A aplicação é baseada em um stack moderno:
 
-Vite – Bundler rápido para desenvolvimento e build.
+- Vite – Bundler rápido para desenvolvimento e build.
 
-React – Biblioteca para construção de interfaces modernas.
+- React – Biblioteca para construção de interfaces modernas.
 
-TypeScript – Tipagem estática para maior segurança e organização do código.
+- TypeScript – Tipagem estática para maior segurança e organização do código.
 
-shadcn-ui – Componentes de interface acessíveis e flexíveis.
+- shadcn-ui – Componentes de interface acessíveis e flexíveis.
 
-Tailwind CSS – Utilitário de estilização altamente produtivo.
+- Tailwind CSS – Utilitário de estilização altamente produtivo.
 
 Como editar o projeto
 
